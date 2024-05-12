@@ -1,0 +1,13 @@
+.newsletter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.newsletter .newsletter-buttons-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  padding-top: 20px;
+}/*# sourceMappingURL=Newsletter.module.css.map */
