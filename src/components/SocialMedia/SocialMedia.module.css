@@ -1,0 +1,9 @@
+.social-container {
+  display: flex;
+}
+.social-container .social-icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}/*# sourceMappingURL=SocialMedia.module.css.map */

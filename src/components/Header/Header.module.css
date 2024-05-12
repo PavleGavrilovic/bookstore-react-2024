@@ -1,0 +1,16 @@
+.header-container .header-top-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+.header-container .header-title-container {
+  display: flex;
+}
+.header-container .banner-container {
+  height: 300px;
+  overflow: hidden;
+}
+.header-container .banner-container img {
+  width: 100%;
+}/*# sourceMappingURL=Header.module.css.map */

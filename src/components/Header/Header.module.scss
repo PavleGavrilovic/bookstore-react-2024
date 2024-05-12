@@ -1,0 +1,22 @@
+.header-container {
+    .header-top-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 15px;
+    }
+  
+    .header-title-container {
+      display: flex;
+    }
+  
+    .banner-container {
+      height: 300px;
+      overflow: hidden;
+  
+      img {
+        width: 100%;
+      }
+    }
+  }
+  

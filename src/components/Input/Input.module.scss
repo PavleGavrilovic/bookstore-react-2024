@@ -1,0 +1,27 @@
+@import "../../styles/mixins";
+
+.input-container {
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    padding: 0 5px;
+    width: 200px;
+    height: 30px;
+
+    .input {
+        border: none;
+        box-sizing: border-box;
+        height: 100%;
+        background: transparent;
+        
+        &:focus {
+            outline: none;
+        }
+    }
+    
+    .search-icon {
+        border-left: 2px solid black;
+        cursor: pointer;
+        @include flex;
+    }
+}
