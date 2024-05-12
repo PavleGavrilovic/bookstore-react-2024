@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/bookstore-react-2024/static/css/main.abcb6023.css",
-    "main.js": "/bookstore-react-2024/static/js/main.7b19b93a.js",
+    "main.css": "/bookstore-react-2024/static/css/main.a33c9b78.css",
+    "main.js": "/bookstore-react-2024/static/js/main.678ebbf8.js",
     "static/js/453.957f6d00.chunk.js": "/bookstore-react-2024/static/js/453.957f6d00.chunk.js",
     "static/media/header.jpg": "/bookstore-react-2024/static/media/header.04e750e0ede4083229e7.jpg",
     "static/media/BriemHand-Bold.ttf": "/bookstore-react-2024/static/media/BriemHand-Bold.69469ef50cce3d7eb05c.ttf",
     "static/media/DancingScript-Bold.ttf": "/bookstore-react-2024/static/media/DancingScript-Bold.57bdbb733ef4ac8e2df3.ttf",
+    "static/media/bn.png": "/bookstore-react-2024/static/media/bn.6992617765b2012e0e74.png",
+    "static/media/shakespeare.png": "/bookstore-react-2024/static/media/shakespeare.ec142fd53fb201eea125.png",
+    "static/media/atlantis.png": "/bookstore-react-2024/static/media/atlantis.8e89239dfa65717ab2dd.png",
     "index.html": "/bookstore-react-2024/index.html",
-    "main.abcb6023.css.map": "/bookstore-react-2024/static/css/main.abcb6023.css.map",
-    "main.7b19b93a.js.map": "/bookstore-react-2024/static/js/main.7b19b93a.js.map",
+    "main.a33c9b78.css.map": "/bookstore-react-2024/static/css/main.a33c9b78.css.map",
+    "main.678ebbf8.js.map": "/bookstore-react-2024/static/js/main.678ebbf8.js.map",
     "453.957f6d00.chunk.js.map": "/bookstore-react-2024/static/js/453.957f6d00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abcb6023.css",
-    "static/js/main.7b19b93a.js"
+    "static/css/main.a33c9b78.css",
+    "static/js/main.678ebbf8.js"
   ]
 }
