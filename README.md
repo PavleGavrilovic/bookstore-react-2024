@@ -1,6 +1,6 @@
 BOOKSTORE WEBSITE
 
-A practice project using React, React Router and Redux. Sass is used for styling
+A practice project using React, React Router and Redux. Sass is used for styling.
 
 The final product should contain:
 
