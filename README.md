@@ -1,6 +1,8 @@
 BOOKSTORE WEBSITE
 
-A practice project using React. The final product should contain:
+A practice project using React, React Router and Redux. Sass is used for styling
+
+The final product should contain:
 
 - list of all books avaliable
 - option to search for book or author via the search bar
